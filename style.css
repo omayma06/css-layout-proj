@@ -1,0 +1,66 @@
+header{
+    display: flex;
+    justify-content: space-between;
+   
+}   
+
+ div introduction{
+    width: 60%;
+    display:flex;
+   justify-content: space-between;
+ }     
+
+div{
+   font-family: roboto,arial, sans-serif;
+   font-size: 16px;
+   line-height: 28px;
+   text-decoration: none solid rgb(116, 116,116);
+    vertical-align: center;
+    height: 112px;
+}
+h2{
+    text-align: center;
+    font-size: 2.125rem;
+    color: #00b39b;
+    margin: 1em 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+    
+ div{
+    display: flex;
+    justify-content: space-between;
+
+ }
+ 
+ h1 {
+    font-size: 20px;
+    font-weight: 200;
+    color: #008398;
+    font-family: "work sans", arial,sans;
+     text-align: center
+    
+}
+   p{
+    text-align: center;
+    font-size: 14px;
+    font-family: roboto,arial,sans-serif;
+   }
+
+ div1{
+font-size: 16px;
+font-family: roboto,arial,sans-serif;
+height: 112px;
+width: 477px;
+margin: 13px 0 13px 0;
+ }
+
+
+
+
+
+
+
+
+
